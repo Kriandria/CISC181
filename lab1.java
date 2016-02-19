@@ -1,7 +1,3 @@
-
-// AS SOON AS YOU SEE THIS FILE, CLICK EDIT IN THE UPPER RIGHT HAND CORNER OF THIS DIALOG BOX, AND REPLACE A BLANK SPACE
-// FROM LINE 5 WITH YOUR NAME. dont forget to commit the changes :D
-
 // Dylan Leh, Jessica Morris, Peter Bohdjelian, Hayley Andrews
 // Feb 10, 2016
 // Cisc 181
